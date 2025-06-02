@@ -81,7 +81,7 @@ WEB3_STORAGE_API_TOKEN="YOUR_WEB3_STORAGE_API_TOKEN"
 6.  Paste it as `WEB3_STORAGE_API_TOKEN` in your `.env` file.
 
 
-## 🛠️ Configuration (`src/config.py`)
+##  Configuration (`src/config.py`)
 
 The main behavior of the NFT generator is controlled by the `src/config.py` file. Below is an explanation of its variables:
 
